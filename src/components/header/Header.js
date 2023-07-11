@@ -5,7 +5,7 @@ class Header extends Component {
   constructor(props) {
     super(props);
     this.userData = {
-      name: "Narendra Babu",
+      name: "Narendra babu",
       age: "29",
     };
 
